@@ -86,3 +86,4 @@ This project demonstrates how to build an **interactive chatbot** that can answe
 3. Ask your hotel-related questions — the bot will provide **relevant and contextual answers** based on the extracted data.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-07-22 at 5 21 07 PM" src="https://github.com/user-attachments/assets/e9949da4-b197-47c1-bfb0-3b6bc0bb8b1d" />
